@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>16894-email-confirmation-sent.json</file>
+    </qresource>
+</RCC>
